@@ -1,14 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Set up project with webpack
 
-> Description the project.
+> In this exercise you will build a simple yet powerful webpack boilerplate, which you can later use as a starting point in your projects. You will be working with the webpack official guides, which you know already from the previous lesson.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
+- Major languages(HTML/CSS/JAVSCRIPT)
+- Frameworks(WEBPACK)
 - Technologies used
 
 ## Live Demo (if available)
@@ -22,36 +22,33 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+# To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
+- Web Browser (e.g. Firefox, Chrome, Edge)
 ### Setup
-
+- using git command line
+  if you are using the git command line, please use this command in your terminal
+  
+    (https://github.com/Kelvin-Ben/Project-with-webpack)
+    
+- using the GitHub Desktop
+    if you are using the desktop version of github, please  click on the green "code" button and click on "Open with GitHub Desktop" 
+    
 ### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Install the linters in your local environment to mantain your code clean 
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+### Kelvin Benjamin
 
-👤 **Author2**
+- GitHub: [@Kelvin-Ben](https://github.com/Kelvin-Ben)
+- Twitter: [@Kevoyout144](https://twitter.com/kevoyout144)
+- Linkedin [Kelvin-ben](https://www.linkedin.com/in/kelvin-ben-323043173/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
+👤
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
